@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ericcalasans/Documents/Estudos/C/ProvaSD/Q1/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+math.h
+-
+time.h
+-
+
